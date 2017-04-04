@@ -1,2 +1,2 @@
 # jekyll-poc
-POC
+Jekyll POC
