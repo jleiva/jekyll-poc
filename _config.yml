@@ -11,3 +11,6 @@ collections:
     output: true
 
 markdown: rdiscount
+
+sass:
+  style: compressed
