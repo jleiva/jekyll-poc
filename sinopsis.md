@@ -4,6 +4,7 @@ title: Sinopsis
 description: Sinopsis de Medea.
 permalink: sinopsis.html
 content_title: Sinopsis
+published: true
 ---
 
 La vida de María José transcurre entre la universidad, sus siempre distantes padres, el entrenamiento de rugby y sus aventuras con su mejor amigo Carlos. Emocionalmente desconectada de su entorno, un día se encuentra con Javier y trata de iniciar una relación con él. Pero sus esfuerzos por llevar una vida normal son en vano. María José carga con un secreto: un embarazo que todo el mundo se niega a ver.
@@ -15,3 +16,5 @@ Vivo es un estado católico dónde el aborto es sentenciado, La sexualidad aún 
 Yo creo que esa relación conflictiva, pasional y llena de contradicciones  que vivimos con “el otro“ la vivimos adentro de nosotros mismos, creo que todos, sin importar el género, hasta cierto punto habitamos un cuerpo ajeno.
 
 “Medea“ es contada a través la mirada de la protagonista y es inspirada en la Medea de Eurípides, un personaje que representa la desmitificación de las imagenes tabuízadas sobre la feminidad, Medea es un personaje femenino que, a diferencia de las representaciones convencionales de las mujeres  en la narrativa occidental, no es una victima.
+
+Marco!!!!
